@@ -43,6 +43,7 @@ ${menu(listmenu.games, "GAMES", prefix)}`
 // JANGAN UBAH/HAPUS THX TO🤥
 var cr = `╭━─━•[ *THX-TO* ]⊱
 ┃•  *ADHIRAJ SINGH*
+┃•  *VANNSIXTEEN*
 ┃•  *RIMURUBOTZ*
 ┃•  *LOLI KILLERS*
 ┃•  *LORD R1YNZ*
